@@ -19,3 +19,7 @@ h6 {
 .messages {
   font-family: "Montserrat", sans-serif;
 }
+
+.dashboard-img {
+  background-image: url(../images/bg-image.jpg);
+}
