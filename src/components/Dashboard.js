@@ -150,7 +150,7 @@ function Dashboard() {
             />
           </div>
           <div>
-            <LoadingButton type="submit" loading={loading} variant="contained">
+            <LoadingButton type="submit" variant="contained" loading={loading}>
               SEND
             </LoadingButton>
           </div>
