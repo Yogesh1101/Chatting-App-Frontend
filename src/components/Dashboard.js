@@ -21,7 +21,7 @@ function Dashboard() {
     }
     getUserDetails();
     getAllMessages();
-  }, [navigate]);
+  }, [messages]);
 
   const getUserDetails = async () => {
     const res = await fetch(
